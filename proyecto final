@@ -1,0 +1,28 @@
+public class usuario;
+
+public static void main(String[] args){
+ String u = Hernan
+String P = 1234
+
+JoptionPane.showeMessageDialog(null, "bienvenido"
++ "verificar datos.");
+String User = JOptionPane.showInputDialog("Ingrse el ususario");
+Strin Pass = JOptionPane.showInputDialog("ingrese la clave");
+
+if(U.equals(user){
+if(P.equals(Pass)){
+JoptionPane.showMessageDialog(null, "Ingrese usuario ");
+}else{
+JOptionPane.showMessageDialog(null, "Ingrese contraseña")
+}
+
+}else{
+
+JOptionPane.showMessageDialog(parentComponent, Pass);
+
+}
+
+}
+
+
+
